@@ -17,7 +17,19 @@ It is recommended to use search functionality in the admin panel vs. manually tr
 
 It is highly recommended to use naming conventions when creating any items (other than location, site, and base settings) to ensure you are not developing over colleague deployments. Ex: JaneDoe_Queue or JaneDoe_Inboundflow, etc
 
-## Activating Your Account
+## Activating Your Gdemo Account
+
+Open GDemo page, create account
+
+Open Customer Record page, add customer info
+
+Check what is GDemo ID
+
+Select Multicloud platform
+
+Navigate to Demonstrations, use Search to find some demo
+
+ Check Playground page and read Introduction to Demo tools
 1. Click the link in your welcome email to activate the account. _It is recommended that you enter in a shared account for this initial setup, instead of a personal account, to simplify recovery for future users_
 
 2. **Admin** > **Genesys Add Ons** > **Ensure Genesys Cloud Voice Tile is active**
