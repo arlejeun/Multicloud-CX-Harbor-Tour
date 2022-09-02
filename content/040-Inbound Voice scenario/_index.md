@@ -24,6 +24,12 @@ Reducing abandonment rate and optimizing successful conversion
 Increasing revenue by offering targeted discounts
 Deflecting customers with online FAQ and chatbots
 
+Setup of GInsurance for Genesys Engage Cloud
+Load GInsurance website for Engage Cloud platform with one of the following URL:
+https://insuranceea.demo.genesys.com/ (Azure)
+
+Log in using your GDemo account.
+
 ## Inbound Voice
 
 1. Make sure that you logged in your agent into Desktop and he is ready on voice channel.
