@@ -16,7 +16,10 @@ Creating Your Configuration
  1. Go to the navigation in GDemo and select "Environments" from the Genesys Engage Cloud menu.
 ![Environments](/images/file_1604107212047_gecEnvironments.jpg)
 
- 3. You will create a configuration and define the settings.
+ 2. You will create a configuration and define the settings.
+![Settings](/images/file_1604373858266_gecEODPersonalNew.jpg)
+
+
  4. Select Microsoft Azure as the Cloud Provider.
  5. Select EOD Personal as the type of Environment that you want to provision, and then click "Create EOD Personal".
  6. Complete the Properties page and click "Provision"..
