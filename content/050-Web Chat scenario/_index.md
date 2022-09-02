@@ -24,11 +24,18 @@ Reducing abandonment rate and optimizing successful conversion
 Increasing revenue by offering targeted discounts
 Deflecting customers with online FAQ and chatbots
 
+GInsurance
+
+Setup of GInsurance for Genesys Engage Cloud
+Load GInsurance website for Engage Cloud platform with one of the following URL:
+https://insuranceea.demo.genesys.com/ (Azure)
+
+Log in using your GDemo account.
 ## Inbound Voice
 
 1. Make sure that you logged in your agent into Desktop and he is ready on chat channel.
 
-2. Login into Treasure Bank web site and initiate chat interactions using widjets.
+2. Login into Treasure Bank or GInshurance web sites and initiate chat interactions using widjets.
  
 3. Call will be delevired to your agent. Accept interaction on Desktop.
 
