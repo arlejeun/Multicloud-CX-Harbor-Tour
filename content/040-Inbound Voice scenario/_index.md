@@ -31,7 +31,9 @@ Deflecting customers with online FAQ and chatbots
 2. For Treasure Bank call one of the folloeing numbers bdepending on your location:
 
  +1 (650) 337-3801
+ 
  +44 (204) 525-4834
+ 
  +61 (27) 202-4281
  
 3. Call will be delevired to your agent. Accept interaction on Desktop.
