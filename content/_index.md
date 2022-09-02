@@ -1,5 +1,5 @@
 ---
-title: "Genesys Workshop"
+title: "Genesys Multiclaud Workshop"
 chapter: true
 weight: 1
 ---
@@ -12,5 +12,10 @@ In this workshop you will learn to apply your foundational knowledge of [Genesys
 
 ### Learning Objectives
 - Gdemo ovwerview
-- Creating users and groups.
-- Configure security.
+- EOD deployment and setup
+- Users configuration
+- Inbound voice and chat scenarious using recommended demonstartions
+.
+
+
+
