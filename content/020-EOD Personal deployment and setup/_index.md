@@ -12,22 +12,22 @@ By the end of this section you will know how to deploy and setup Azure Environme
 ![Deployment](/images/UserConfig2-768x300.jpg)
 ## Deployment of your Azure EOD Personal Environment
 
-1. Creating Your Configuration
- - Go to the navigation in GDemo and select "Environments" from the Genesys Engage Cloud menu.
- - You will create a configuration and define the settings.
- - Select Microsoft Azure as the Cloud Provider.
- - Select EOD Personal as the type of Environment that you want to provision, and then click "Create EOD Personal".
- - Complete the Properties page and click "Provision"..
- - It may take a few minutes to provision. This is normal.
+Creating Your Configuration
+ 1. Go to the navigation in GDemo and select "Environments" from the Genesys Engage Cloud menu.
+ 2. You will create a configuration and define the settings.
+ 3. Select Microsoft Azure as the Cloud Provider.
+ 4. Select EOD Personal as the type of Environment that you want to provision, and then click "Create EOD Personal".
+ 5. Complete the Properties page and click "Provision"..
+ 6. It may take a few minutes to provision. This is normal.
 
-2. Provisioning Completed
- - When finished, you will you will see your new Azure Personal EOD in your list of Live Environments.
- - Note the icon that designates your new EOD as provisioned on Azure.
+Provisioning Completed
+ 1. When finished, you will you will see your new Azure Personal EOD in your list of Live Environments.
+ 2. Note the icon that designates your new EOD as provisioned on Azure.
 
-3. Retrieving Configurations at later time
- - At any time you can retrieve your configuration, such as Unit ID, agent password, etc., by going to 'My Live EODs', and then clicking the 'View EOD Configuration' icon.
- - On the Configuration page, note this button which will give you a PDF version of your configuration.
- - Note that your Unit Type is designated as Azure.
+Retrieving Configurations at later time
+ 1. At any time you can retrieve your configuration, such as Unit ID, agent password, etc., by going to 'My Live EODs', and then clicking the 'View EOD Configuration' icon.
+ 2. On the Configuration page, note this button which will give you a PDF version of your configuration.
+ 3. Note that your Unit Type is designated as Azure.
 
 
 >Each role in Genesys Cloud contains one or more permissions. The permissions allow users with that role to do >various tasks, such as create groups, set up integrations, and supervise contact center activity.
