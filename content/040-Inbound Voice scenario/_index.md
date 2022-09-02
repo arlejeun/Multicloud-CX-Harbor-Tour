@@ -13,22 +13,27 @@ Once you have your Azure EOD Personal deployed, and are familiar with connecting
 
 Treasure Bank
 
-This is a CrossPlatform demonstration that shows multiple Pure Engage Cloud (PEC) products in the cohesive storyline of a customer's interaction with a fictional bank website. Uses the PEC Environment throughout. [link]
+This is a CrossPlatform demonstration that shows multiple Pure Engage Cloud (PEC) products in the cohesive storyline of a customer's interaction with a fictional bank website. Load Treasure Bank website with the following URL: https://treasureea.demo.genesys.com/
 
 GSol
-
 This is a CrossPlatform demonstration of various scenarios using the GSol website. Uses the PEC Environment in the PureEngage Cloud tab of the demonstration. [link] 
+GSol is one of our official demo to showcase our product capabillities and aims at helping business organizations engage at the right time with their online customers by:
 
-## Edit Unit Passwords
+Tracking customer journeys and observe behaviors to engage at the right time
+Reducing abandonment rate and optimizing successful conversion
+Increasing revenue by offering targeted discounts
+Deflecting customers with online FAQ and chatbots
 
-You can update your unit users passwords by following these steps:
+## Inbound Voice
 
-1. Open [EngageCloud / Environment] and click on the edit button of your personal unit:
+1. Make sure that you logged in your agent into Desktop and he is ready on voice channel.
 
+2. For Treasure Bank call one of the folloeing numbers bdepending on your location:
 
-2. Enter the new passords for your admin and supervisor/agents accounts
+ +1 (650) 337-3801
+ +44 (204) 525-4834
+ +61 (27) 202-4281
+ 
+3. Call will be delevired to your agent. Accept interaction on Desktop.
 
-3. Click on [Update] button
-
-> Password cannot be less than 8 characters and must contain three of the following items: upper case letter, lower case letter, a number.
 
