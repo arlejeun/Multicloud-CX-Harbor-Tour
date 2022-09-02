@@ -10,7 +10,7 @@ By the end of this section you will know what type of users are available on Per
 
 ## Login Information
 
-After you have opened your Azure EOD Personal at Azure EOD Portal you can log into the various applications displayed on the portal page with different usernames depending on role.
+After you have opened your Azure EOD Personal at [Azure EOD Portal](https://portal-1007-westus2.prod001.genesysengage.com/) you can log into the various applications displayed on the portal page with different usernames depending on role.
 
 Azure EOD Personal users login information
  1. Open and reference your EOD configuration or PDF.
