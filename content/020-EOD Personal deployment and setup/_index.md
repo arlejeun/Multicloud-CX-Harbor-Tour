@@ -9,7 +9,7 @@ weight: 20
 By the end of this section you will know how to deploy and setup Azure Environment on Demand (EOD) that will allow you to create a Personal environment in the Genesys Engage Cloud production tenant. You will be able to demonstrate cloud functionality in the same environment used by customers.
 
 
-![Title](/images/UserConfig2-768x300.jpg)
+![Deployment](/images/UserConfig2-768x300.jpg)
 ## Deployment of your Azure EOD Personal Environment
 
 1. Creating Your Configuration
