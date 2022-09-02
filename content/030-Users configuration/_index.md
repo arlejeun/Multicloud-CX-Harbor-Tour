@@ -42,11 +42,11 @@ password = 'Agent Password' as specified in your EOD configuration.
 
 You can update your unit users passwords by following these steps:
 
-Open [EngageCloud / Environment] and click on the edit button of your personal unit:
+1. Open [EngageCloud / Environment] and click on the edit button of your personal unit:
 
 
-Enter the new passords for your admin and supervisor/agents accounts
+2. Enter the new passords for your admin and supervisor/agents accounts
 
-Click on [Update] button
+3. Click on [Update] button
 
-Note that password cannot be less than 8 characters and must contain three of the following items: upper case letter, lower case letter, a number.
+> Password cannot be less than 8 characters and must contain three of the following items: upper case letter, lower case letter, a number.
