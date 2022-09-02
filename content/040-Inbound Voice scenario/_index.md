@@ -7,35 +7,17 @@ weight: 40
 
 By the end of this section you will be able to create voice interaction using recommended demonstrations (Treasure, G-Sol) and deliver it to an agent
 
-## Login Information
+## Recommended demonstrations
 
-After you have opened your Azure EOD Personal at [Azure EOD Portal](https://portal-1007-westus2.prod001.genesysengage.com/) you can log into the various applications displayed on the portal page with different usernames depending on role.
+Once you have your Azure EOD Personal deployed, and are familiar with connecting, there are additional demonstrations available on GDemo where you can use your EOD. Realize that your 'EOD Personal' is sometimes referenced as 'PEC Environment' in other instructions. 
 
-Azure EOD Personal users login information
- 1. Open and reference your EOD configuration or PDF.
-![Environments](/images/file_1604107212047_gecEnvironments.jpg)
+Treasure Bank
 
- 2. You will create a configuration and define the settings.Click the 'Show Users' button to reveal all of your different preconfigured users. The password for your Admin and Agent users are right there also.
-![Settings](/images/file_1604373858266_gecEODPersonalNew.jpg)
+This is a CrossPlatform demonstration that shows multiple Pure Engage Cloud (PEC) products in the cohesive storyline of a customer's interaction with a fictional bank website. Uses the PEC Environment throughout. [link]
 
-3. You will see a list of your preconfigured usernames.
-> The format of the different usernames:
->u [Unit Id] [user role] @pec.com
+GSol
 
-An Example Login to Agent Desktop
-With the users from your EOD Configuration. above, lets try logging into an application.
-
-1. From the Azure EOD Portal select the 'Agent Desktop' tile.
-
-and log into Agent Desktop with:
-
-username = unique Username in format of u[Unit Id]agt@pec.com as specified in your EOD configuration.
-
-password = 'Agent Password' as specified in your EOD configuration.
-
-> Tenant name field should be empty.
-
-2. Make the Agent ready on all channels.
+This is a CrossPlatform demonstration of various scenarios using the GSol website. Uses the PEC Environment in the PureEngage Cloud tab of the demonstration. [link] 
 
 ## Edit Unit Passwords
 
