@@ -42,6 +42,8 @@ Log in using your GDemo account.
  
  +61 (27) 202-4281
  
+ For G-Sol use number +1 (408) 217- 6504
+ 
 3. Call will be delevired to your agent. Accept interaction on Desktop.
 
 
