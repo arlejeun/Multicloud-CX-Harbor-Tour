@@ -14,11 +14,13 @@ By the end of this section you will know how to deploy and setup Azure Environme
 
 Creating Your Configuration
  1. Go to the navigation in GDemo and select "Environments" from the Genesys Engage Cloud menu.
- 2. You will create a configuration and define the settings.
- 3. Select Microsoft Azure as the Cloud Provider.
- 4. Select EOD Personal as the type of Environment that you want to provision, and then click "Create EOD Personal".
- 5. Complete the Properties page and click "Provision"..
- 6. It may take a few minutes to provision. This is normal.
+![Environments](/images/file_1604107212047_gecEnvironments.jpg)
+
+ 3. You will create a configuration and define the settings.
+ 4. Select Microsoft Azure as the Cloud Provider.
+ 5. Select EOD Personal as the type of Environment that you want to provision, and then click "Create EOD Personal".
+ 6. Complete the Properties page and click "Provision"..
+ 7. It may take a few minutes to provision. This is normal.
 
 Provisioning Completed
  1. When finished, you will you will see your new Azure Personal EOD in your list of Live Environments.
