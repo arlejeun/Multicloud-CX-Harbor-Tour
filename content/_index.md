@@ -1,12 +1,12 @@
 ---
-title: "Genesys Multiclaud Workshop"
+title: "Genesys Multicloud Workshop"
 chapter: true
 weight: 1
 ---
 
-# Genesys Workshop
+# Genesys Multicloud Workshop 101
 
-### Welcome
+## Welcome
 
 In this workshop you will learn to apply your foundational knowledge of [Genesys](https://genesys.com) and master example use cases that demonstrate [Experience as a Service](https://www.genesys.com/experience-as-a-service).
 
