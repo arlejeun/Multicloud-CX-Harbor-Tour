@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 chapter: true
-weight: 20
+weight: 10
 ---
 
 ![Title](/images/GettingStarted.jpg)
