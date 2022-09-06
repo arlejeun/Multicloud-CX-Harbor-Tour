@@ -21,9 +21,17 @@ Creating Your Configuration
 
 
  4. Select Microsoft Azure as the Cloud Provider.
+![Microsoft](/images/file_1622738616041_chooseAzureProvider.png)
+
  5. Select EOD Personal as the type of Environment that you want to provision, and then click "Create EOD Personal".
+![Type](/images/file_1604372953844_gecEODPersonalType.jpg) 
  6. Complete the Properties page and click "Provision"..
+![EODType](/images/file_1604374043471_gecEODPersonalType.jpg) 
+
  7. It may take a few minutes to provision. This is normal.
+
+![PODRequested](/images/file_1604348078978_gecPOCRequested.jpg) 
+
 
 Provisioning Completed
  1. When finished, you will you will see your new Azure Personal EOD in your list of Live Environments.
