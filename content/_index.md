@@ -4,7 +4,7 @@ chapter: true
 weight: 1
 ---
 
-# Genesys Multicloud Workshop 101
+# Genesys Multicloud-CX Workshop 101
 
 ## Welcome
 
