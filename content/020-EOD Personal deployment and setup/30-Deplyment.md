@@ -29,7 +29,12 @@ Creating Your Configuration
 
 Provisioning Completed
  1. When finished, you will you will see your new Azure Personal EOD in your list of Live Environments.
+
+![Done](/images/file_1604348160805_gecPOCSuccessful.jpg)
+
+
  2. Note the icon that designates your new EOD as provisioned on Azure.
+ ![mylive](/images/file_1622738956387_myLiveAzure.png)
 
 Retrieving Configurations at later time
  1. At any time you can retrieve your configuration, such as Unit ID, agent password, etc., by going to 'My Live EODs', and then clicking the 'View EOD Configuration' icon.
