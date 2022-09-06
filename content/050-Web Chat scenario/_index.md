@@ -1,3 +1,4 @@
+---
 title: "Web Chat scenario"
 chapter: true
 weight: 50
