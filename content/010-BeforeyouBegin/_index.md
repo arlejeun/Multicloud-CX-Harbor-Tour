@@ -23,7 +23,4 @@ Select Multicloud platform
 Navigate to Demonstrations, use Search to find some demo
 
  Check Playground page and read Introduction to Demo tools
- 
-1. Click the link in your welcome email to activate the account. _It is recommended that you enter in a shared account for this initial setup, instead of a personal account, to simplify recovery for future users_
-
 
