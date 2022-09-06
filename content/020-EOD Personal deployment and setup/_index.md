@@ -29,7 +29,6 @@ Creating Your Configuration
 ![EODType](/images/file_1604374043471_gecEODPersonalType.jpg) 
 
  6. It may take a few minutes to provision. This is normal.
-
 ![PODRequested](/images/file_1604348078978_gecPOCRequested.jpg) 
 
 
