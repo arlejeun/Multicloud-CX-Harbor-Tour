@@ -1,7 +1,7 @@
 ---
 title: "Customization and Supported Channels"
 chapter: true
-weight: 50
+weight: 60
 ---
 
 ## Customization and Supported Channels
