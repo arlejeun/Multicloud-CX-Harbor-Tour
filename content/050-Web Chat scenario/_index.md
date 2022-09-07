@@ -3,7 +3,7 @@ title: "Web Chat scenario"
 chapter: true
 weight: 50
 ---
-![Title](/images/UserConfig.jpg)
+
 ## Objective
 
 By the end of this section you will be able to initiate chat interaction using recommended demonstrations (Treasure, G-Sol) and deliver it to an agent
