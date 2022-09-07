@@ -1,5 +1,5 @@
 ---
-title: "## Different types of EOD"
+title: "Different types of EOD"
 chapter: true
 weight: 70
 ---
