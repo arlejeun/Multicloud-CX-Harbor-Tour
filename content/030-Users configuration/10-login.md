@@ -23,9 +23,12 @@ Azure EOD Personal users login information
 >u [Unit Id] [user role] @pec.com
 
 **An Example Login to Agent Desktop**
+
 With the users from your EOD Configuration. above, lets try logging into an application.
 
 1. From the Azure EOD Portal select the 'Agent Desktop' tile.
+
+![WWE](/images/file_1622753076476_azureAgtDeskTile.png)
 
 and log into Agent Desktop with:
 
@@ -35,5 +38,10 @@ password = 'Agent Password' as specified in your EOD configuration.
 
 > Tenant name field should be empty.
 
+![Tenant](/images/file_1604334999711_gecEODWorkshopAdLogin.jpg)
+
+
 2. Make the Agent ready on all channels.
+
+![Ready](/images/WWE9_Agent_Ready.png)
 
