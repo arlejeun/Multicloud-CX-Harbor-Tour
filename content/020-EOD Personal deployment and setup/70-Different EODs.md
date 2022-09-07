@@ -1,7 +1,7 @@
 ---
 title: "Different types of EOD"
 chapter: true
-weight: 10
+weight: 30
 ---
 
 ## Different types of EOD
