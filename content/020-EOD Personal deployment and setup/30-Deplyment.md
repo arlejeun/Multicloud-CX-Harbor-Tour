@@ -1,7 +1,7 @@
 ---
 title: "Deployment of your Azure EOD Personal Environment"
 chapter: true
-weight: 10
+weight: 30
 ---
 
 ![Deployment](/images/UserConfig2-768x300.jpg)
