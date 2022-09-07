@@ -1,10 +1,9 @@
-title: "Login Info"
+---
+title: "Login Information"
 chapter: true
 weight: 10
 ---
-![Title](/images/UserConfig.jpg)
 
-## Login Information
 
 After you have opened your Azure EOD Personal at [Azure EOD Portal](https://portal-1007-westus2.prod001.genesysengage.com/) you can log into the various applications displayed on the portal page with different usernames depending on role.
 
