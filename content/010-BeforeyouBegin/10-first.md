@@ -7,16 +7,16 @@ weight: 10
 
 ## Activating Your Gdemo Account
 
-Open GDemo page, create account
+- Open GDemo page, create account
 
-Open Customer Record page, add customer info
+- Open Customer Record page, add customer info
 
-Check what is GDemo ID
+- Check what is GDemo ID
 
-Select Multicloud platform
+- Select Multicloud platform
 
-Navigate to Demonstrations, use Search to find some demo
+- Navigate to Demonstrations, use Search to find some demo
 
-Check Playground page and read Introduction to Demo tools
+- Check Playground page and read Introduction to Demo tools
 
 
