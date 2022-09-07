@@ -3,7 +3,6 @@ title: "Conclusion"
 chapter: true
 weight: 90
 ---
-![Title](/images/Conclusion.jpg)
 
 ## Finished!
 
