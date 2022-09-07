@@ -8,35 +8,14 @@ weight: 50
 
 By the end of this section you will be able to initiate chat interaction using recommended demonstrations (Treasure, G-Sol) and deliver it to an agent
 
-## Recommended demonstrations
-
-Once you have your Azure EOD Personal deployed, and are familiar with connecting, there are additional demonstrations available on GDemo where you can use your EOD. Realize that your 'EOD Personal' is sometimes referenced as 'PEC Environment' in other instructions. 
-
-Treasure Bank
-
-This is a CrossPlatform demonstration that shows multiple Pure Engage Cloud (PEC) products in the cohesive storyline of a customer's interaction with a fictional bank website. Load Treasure Bank website with the following URL: https://treasureea.demo.genesys.com/
-
-GSol
-This is a CrossPlatform demonstration of various scenarios using the GSol website. Uses the PEC Environment in the PureEngage Cloud tab of the demonstration. [link] 
-GSol is one of our official demo to showcase our product capabillities and aims at helping business organizations engage at the right time with their online customers by:
-
-Tracking customer journeys and observe behaviors to engage at the right time
-Reducing abandonment rate and optimizing successful conversion
-Increasing revenue by offering targeted discounts
-Deflecting customers with online FAQ and chatbots
-
-GInsurance
-
-Setup of GInsurance for Genesys Engage Cloud
-Load GInsurance website for Engage Cloud platform with one of the following URL:
-https://insuranceea.demo.genesys.com/ (Azure)
 
 Log in using your GDemo account.
-## Inbound Voice
+## Web Chat
 
 1. Make sure that you logged in your agent into Desktop and he is ready on chat channel.
 
-2. Login into Treasure Bank or GInshurance web sites and initiate chat interactions using widjets.
+2. Login into Treasure Bank https://treasureea.demo.genesys.com/
+ or GInshurance https://insuranceea.demo.genesys.com/ (Azure) web sites and initiate chat interactions using widjets.
  
 3. Call will be delevired to your agent. Accept interaction on Desktop.
 
