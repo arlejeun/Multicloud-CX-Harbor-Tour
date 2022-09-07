@@ -4,7 +4,7 @@ chapter: true
 weight: 10
 ---
 
-Here are all EOD types that we currently support:
+**Here are all EOD types that we currently support:**
 
 ## WORKSHOP Units
 
