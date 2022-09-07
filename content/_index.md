@@ -8,7 +8,7 @@ weight: 1
 
 ## Welcome
 
-In this workshop you will learn how to set up Multicloud environment for Azure, get familiar with the environmnet and perform basic functionality.
+In this workshop you will learn how to set up Multicloud environment for Azure, get familiar with the environment and perform basic functionality.
 
 ### Learning Objectives
 -	Gdemo overview
