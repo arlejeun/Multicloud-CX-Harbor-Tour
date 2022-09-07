@@ -8,7 +8,7 @@ weight: 1
 
 ## Welcome
 
-In this workshop you will learn to apply your foundational knowledge of [Genesys](https://genesys.com) and master example use cases that demonstrate [Experience as a Service](https://www.genesys.com/experience-as-a-service).
+In this workshop you will learn how to set up Multicloud environment for Azure, get familiar with the environmnet and perform basic functionality.
 
 ### Learning Objectives
 -	Gdemo overview
