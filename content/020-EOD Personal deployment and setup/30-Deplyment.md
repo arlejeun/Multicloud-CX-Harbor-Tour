@@ -40,6 +40,7 @@ Retrieving Configurations at later time
  1. At any time you can retrieve your configuration, such as Unit ID, agent password, etc., by going to 'My Live EODs', and then clicking the 'View EOD Configuration' icon.
  2. On the Configuration page, note this button which will give you a PDF version of your configuration.
  3. Note that your Unit Type is designated as Azure.
+
 >Help
 
 >If there are inaccuracies or issues with this Azure EOD Personal Deployment demonstration, or if you would like to give feedback on this demonstration, please use >this link. Include a screenshot(s) if possible.
@@ -47,9 +48,7 @@ Retrieving Configurations at later time
 >If you have general demo or larger issues,
 >please contact Global Technical Sales as usual.
 
->Note
-
 >Platform stability
 
->This Azure EOD is a production tenant on the Genesys Engage Cloud platform.  The availability of the platform and components is managed by the DevOps cloud team, >therefore  we are not responsible for the service level and availability of the platform.
+>This Azure EOD is a production tenant on the Genesys Engage Cloud platform.  The availability of the platform and components is managed by the DevOps cloud team, therefore  we are not responsible for the service level and availability of the platform.
 
