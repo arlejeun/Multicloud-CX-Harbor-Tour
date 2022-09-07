@@ -13,7 +13,7 @@ weight: 10
 
 - Check what is GDemo ID
 
-- Select Multicloud platform
+- Select Multicloud CX platform
 
 - Navigate to Demonstrations, use Search to find some demo
 
