@@ -27,7 +27,7 @@ Creating Your Configuration
 
 
 Provisioning Completed
- 1. When finished, you will you will see your new Azure Personal EOD in your list of Live Environments.
+ 1. When finished, you will see your new Azure Personal EOD in your list of Live Environments.
 
 ![Done](/images/file_1604348160805_gecPOCSuccessful.jpg)
 
@@ -37,9 +37,12 @@ Provisioning Completed
 
 Retrieving Configurations at later time
  1. At any time you can retrieve your configuration, such as Unit ID, agent password, etc., by going to 'My Live EODs', and then clicking the 'View EOD Configuration' icon.
- 2. On the Configuration page, note this button which will give you a PDF version of your configuration.
- 3. Note that your Unit Type is designated as Azure.
 
+![configuration](/images/file_1622739207774_viewNewEODConfig.png)
+ 2. On the Configuration page, note this button which will give you a PDF version of your configuration.
+![pdf](/images/file_1604109897379_gecEODWorkshopPDF.jpg)
+ 3. Note that your Unit Type is designated as Azure.
+![unit](/images/file_1622739397819_azureUnitType.png)
 >Help
 
 >If there are inaccuracies or issues with this Azure EOD Personal Deployment demonstration, or if you would like to give feedback on this demonstration, please use >this link. Include a screenshot(s) if possible.
