@@ -7,6 +7,6 @@ weight: 10
 ![Title](/images/GettingStarted.jpg)
 ## Objective
 
-This workshop is intended as a documented and outlined guide to set up a new Azure EOD environment. This walkthrough will outline how to set up the environment, how to login into Agent Desktop and navigate through the Desktop UI. The end goal is to be able to send an inbound call or web chat using recommended demonstrations and successfully deliver to an Agent. 
+Before you begin you need to activate your Gdemo account and get familiar with Gdemo portal The goal of this section is to guide you through the account activation process and help to navigate through Gdemo portal.
 
 
