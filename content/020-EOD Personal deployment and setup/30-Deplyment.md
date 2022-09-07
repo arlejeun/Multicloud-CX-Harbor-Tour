@@ -4,7 +4,6 @@ chapter: true
 weight: 30
 ---
 
-![Deployment](/images/UserConfig2-768x300.jpg)
 ## Deployment of your Azure EOD Personal Environment
 
 Creating Your Configuration
