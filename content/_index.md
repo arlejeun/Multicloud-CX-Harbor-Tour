@@ -11,11 +11,11 @@ weight: 1
 In this workshop you will learn to apply your foundational knowledge of [Genesys](https://genesys.com) and master example use cases that demonstrate [Experience as a Service](https://www.genesys.com/experience-as-a-service).
 
 ### Learning Objectives
-- Gdemo ovwerview
-- EOD deployment and setup
-- Users configuration
-- Inbound voice and chat scenarious using recommended demonstartions
-.
+-	Gdemo overview
+-	EOD deployment and setup
+-	Users’ configuration
+-	Inbound voice and chat scenarios using recommended demonstrations.
+
 
 
 
