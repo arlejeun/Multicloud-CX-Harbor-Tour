@@ -1,7 +1,7 @@
 ---
 title: "Different types of EOD"
 chapter: true
-weight: 10
+weight: 70
 ---
 
 **Here are all EOD types that we currently support:**
