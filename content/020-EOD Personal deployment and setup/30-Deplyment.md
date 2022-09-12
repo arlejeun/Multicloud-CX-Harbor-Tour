@@ -1,10 +1,10 @@
 ---
-title: "Deployment Azure EOD Personal"
+title: "Azure EOD Persona deployment"
 chapter: true
 weight: 30
 ---
 
-## Deployment Azure EOD Personal
+## Azure EOD Personal deployment
 ### Creating Your Configuration
  1. Go to the navigation in GDemo and select "Environments" from the Genesys Engage Cloud menu.
 ![Environments](/images/file_1604107212047_gecEnvironments.jpg)
@@ -43,7 +43,7 @@ weight: 30
  3. Note that your Unit Type is designated as Azure.
 ![unit](/images/file_1622739397819_azureUnitType.png)
 
-[SR] Question to the team - Do we need to have info below in this workshop?
+**[SR] Question to the team - Do we need to have info below in this workshop?**
 >Help
 
 >If there are inaccuracies or issues with this Azure EOD Personal Deployment demonstration, or if you would like to give feedback on this demonstration, please use >this link. Include a screenshot(s) if possible.
