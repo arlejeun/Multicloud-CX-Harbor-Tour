@@ -33,23 +33,23 @@ Start chat by clicking on 'Start Chat' tab
 
 ![TBChat1](/images/TBStartChat.PNG)
 
-Type 'agent' in the chat window
+Select 'Agent' in the chat window
 
-![TBChat2](/images/TDChat.PNG)
+![TBChat2](/images/TBagent.PNG)
 
 
 ### Accept chat
 
-Call will be delevired to your agent. Accept interaction on Desktop.
+Chat will be delevired to your agent. Accept chat interaction on Desktop.
 
-![Accept](/images/Accept2.PNG)
-![OnCall](/images/AD1.PNG)
+![Accept](/images/TBChat2.PNG)
+![OnChat](/images/TBADChat.PNG)
 
 ### Chat with agent
 
-You can check 'History' tab, 'Responses" tab. etc.
+You can chat with agent now
 
-![History](/images/ADHistory.PNG)
+![AgentToCustomer](/images/)
 ![Responces](/images/ADResponses.PNG)
 
 ### End chat
