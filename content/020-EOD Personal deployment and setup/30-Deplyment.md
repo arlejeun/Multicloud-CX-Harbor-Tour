@@ -43,6 +43,16 @@ weight: 30
  3. Note that your Unit Type is designated as Azure.
 ![unit](/images/file_1622739397819_azureUnitType.png)
 
+
+### Opening your Azure EOD Personal Portal ##
+
+Once you have deployed your EOD Personal, open the Azure EOD Portal here:
+
+[Azure EOD Portal](https://portal-1007-westus2.prod001.genesysengage.com/)
+
+![Portal](/images/AzurePortal.PNG)
+
+
 **[SR] Question to the team - Do we need to have info below in this workshop?**
 >Help
 
