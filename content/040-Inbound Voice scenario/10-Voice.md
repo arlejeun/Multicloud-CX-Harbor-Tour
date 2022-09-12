@@ -9,7 +9,7 @@ weight: 10
 
 ### Objective
 
-By the end of this section you will be able to create voice interaction using and deliver it to an agent.
+By the end of this section you will be able to make voice interaction and deliver it to an agent.
 
 ### Login to Agent Desktop
 
