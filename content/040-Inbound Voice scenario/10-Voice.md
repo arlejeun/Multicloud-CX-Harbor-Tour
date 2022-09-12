@@ -45,7 +45,7 @@ For the question "How can I help you ?" say "Agent"
 
 Call will be delevired to your agent. Accept interaction on Desktop.
 
-![Accept](/images/Accept.PNG)
+![Accept](/images/Accept2.PNG)
 ![OnCall](/images/AD1.PNG)
 
 ### Review Agent Desktop interface
