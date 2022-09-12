@@ -47,3 +47,9 @@ Call will be delevired to your agent. Accept interaction on Desktop.
 
 ![Accept](/images/Accept.PNG)
 
+### Review agent desctop interface
+
+You can check 'History' tab, 'Responses" tab. etc.
+
+### Release call
+
