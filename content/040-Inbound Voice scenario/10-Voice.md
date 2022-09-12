@@ -27,7 +27,7 @@ password = 'Agent Password' as specified in your EOD configuration.
 
 ### Make the Agent ready on all channels.
 
-![Ready](/images/WWE9_Agent_Ready.png)
+![Ready](/images/AD.PNG)
 
 
 ### Make call
@@ -46,10 +46,14 @@ For the question "How can I help you ?" say "Agent"
 Call will be delevired to your agent. Accept interaction on Desktop.
 
 ![Accept](/images/Accept.PNG)
+![OnCall](/images/AD1.PNG)
 
-### Review agent desctop interface
+### Review Agent Desktop interface
 
 You can check 'History' tab, 'Responses" tab. etc.
+
+![History](/images/ADHistory.PNG)
+![Responces](/images/ADResponses.PNG)
 
 ### Release call
 
