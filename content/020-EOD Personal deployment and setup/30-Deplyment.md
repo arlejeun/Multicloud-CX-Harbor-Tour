@@ -52,6 +52,10 @@ Once you have deployed your EOD Personal, open the Azure EOD Portal here:
 
 ![Portal](/images/AzurePortal.PNG)
 
+### Customization
+Once you have created your Azure EOD Personal you can customize your environment. 
+Additional setup instructions and information on supported channels is covered in Multicloud CX Workshop 102.
+
 
 **[SR] Question to the team - Do we need to have info below in this workshop?**
 >Help
