@@ -43,16 +43,22 @@ Select 'Agent' in the chat window
 Chat will be delevired to your agent. Accept chat interaction on Desktop.
 
 ![Accept](/images/TBChat2.PNG)
+
+ Accept chat interaction on Desktop.
+ 
 ![OnChat](/images/TBADChat.PNG)
 
 ### Chat with agent
 
 You can chat with agent now
 
-![AgentToCustomer](/images/)
-![Responces](/images/ADResponses.PNG)
+![AgentToCustomer](/images/TBchat3.PNG)
+![CustomerToAgent](/images/TBchat4.PNG)
+
 
 ### End chat
 
+![EndChat](/images/TBEndChat.PNG)
+![ChatDone](/images/TBChatDone.PNG)
 
 
