@@ -35,7 +35,7 @@ password = 'Agent Password' as specified in your EOD configuration.
  ![ContactInfo](/images/TreasureBankContactVoice.PNG)
 
  
-3. Follow the prompts. When asked "How can I help you" say "Agent"
+3. Follow the prompts. For the question "How can I help you ?" say "Agent"
 
 4. Call will be delevired to your agent. Accept interaction on Desktop.
 
