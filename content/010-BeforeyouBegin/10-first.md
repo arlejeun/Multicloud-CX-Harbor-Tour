@@ -20,3 +20,4 @@ weight: 10
 - Check Playground page and read Introduction to Demo tools
 
 
+![gdemo](/images/Gdemo.PNG)
