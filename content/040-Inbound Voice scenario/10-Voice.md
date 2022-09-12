@@ -30,14 +30,10 @@ password = 'Agent Password' as specified in your EOD configuration.
 ![Ready](/images/WWE9_Agent_Ready.png)
 
 
-2. For Treasure Bank call one of the folloeing numbers depending on your location:
+2. For Treasure Bank call one of the following numbers depending on your location:
 
- +1 (650) 337-3801
- 
- +44 (204) 525-4834
- 
- +61 (27) 202-4281
- 
+ ![ContactInfo](/images/TreasureBankContactVoice.PNG)
+
  
 3. Call will be delevired to your agent. Accept interaction on Desktop.
 
