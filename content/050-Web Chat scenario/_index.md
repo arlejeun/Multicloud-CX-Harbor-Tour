@@ -4,6 +4,7 @@ chapter: true
 weight: 50
 ---
 
+## Web Chat scenario
 
 ### Objective
 
@@ -57,7 +58,7 @@ Chat will be delevired to your agent. Accept chat interaction on Desktop.
 You can chat with agent now
 
 ![AgentToCustomer](/images/TBchat3.PNG)
-![CustomerToAgent](/images/TBchat4.PNG)
+![CustomerToAgent](/images/TBChat4.PNG)
 
 
 ### End chat
