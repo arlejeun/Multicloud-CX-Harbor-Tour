@@ -1,5 +1,5 @@
 ---
-title: "Azure EOD Persona deployment"
+title: "Azure EOD Personal deployment"
 chapter: true
 weight: 30
 ---
