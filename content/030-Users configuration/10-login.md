@@ -4,6 +4,7 @@ chapter: true
 weight: 10
 ---
 
+## Login Information
 
 After you have opened your Azure EOD Personal at [Azure EOD Portal](https://portal-1007-westus2.prod001.genesysengage.com/) you can log into the various applications displayed on the portal page with different usernames depending on role.
 
@@ -22,7 +23,7 @@ Azure EOD Personal users login information
 > The format of the different usernames:
 >u [Unit Id] [user role] @pec.com
 
-**An Example Login to Agent Desktop**
+### An Example Login to Agent Desktop
 
 With the users from your EOD Configuration. above, lets try logging into an application.
 
