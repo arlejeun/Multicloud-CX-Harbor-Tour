@@ -20,7 +20,7 @@ From the Azure EOD Portal select the 'Agent Desktop' tile.
 
 and log into Agent Desktop with:
 
-username = unique Username in format of u[Unit Id]agt@pec.com as specified in your EOD configuration.
+username = unique Username in format of u[**Unit Id**]agt@pec.com as specified in your EOD configuration.
 
 password = 'Agent Password' as specified in your EOD configuration.
 
