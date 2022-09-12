@@ -12,6 +12,7 @@ Once you have your Azure EOD Personal deployed, and are familiar with connecting
 
 This is a CrossPlatform demonstration that shows multiple Pure Engage Cloud (PEC) products in the cohesive storyline of a customer's interaction with a fictional bank website. Uses the PEC Environment throughout. [link]
 
+![TB](/images/TBLogin.PNG)
 - GSol
 
 This is a CrossPlatform demonstration of various scenarios using the GSol website. Uses the PEC Environment in the PureEngage Cloud tab of the demonstration. [link] 
