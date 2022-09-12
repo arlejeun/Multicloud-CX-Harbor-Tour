@@ -9,5 +9,5 @@ Once you have deployed your EOD Personal, open the Azure EOD Portal here:
 
 [Azure EOD Portal](https://portal-1007-westus2.prod001.genesysengage.com/)
 
-![Portal](/images/file_1586363225629_pec-portal.png)
+![Portal](/images/AzurePortal.PNG)
 
