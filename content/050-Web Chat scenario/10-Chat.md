@@ -58,7 +58,12 @@ You can chat with agent now
 
 ### End chat
 
+End call by clicking on the following icon:
+
 ![EndChat](/images/TBEndChat.PNG)
+
+And mark it done:
+
 ![ChatDone](/images/TBChatDone.PNG)
 
 
