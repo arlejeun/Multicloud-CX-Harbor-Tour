@@ -17,22 +17,23 @@ Login into Treasure Bank https://treasureea.demo.genesys.com/ using your GDemo a
 ![TBLogin](/images/TBLogin.PNG)
 
 
-### Initiate chat session
+### Create chat interaction
 
 Click on the 'Live Assistance' tab on the right side of the page 
 ![TBLA](/images/TBLiveA.PNG)
  
  
- and open 'Live Assistance' window.
+and open 'Live Assistance' window.
+Initiate chat session by clicking on 'Web Chat' tab.
  
  
 ![TBLA2](/images/TBLiveAssist.PNG)
 
-Initiate chat session by clicking on 'Web Chat' tab.
+Start chat by clicking on 'Start Chat' tab
 
 ![TBChat1](/images/TBStartChat.PNG)
 
-Start chat by clicking on 'Start Chat' tab
+Type 'agent' in the chat window
 
 ![TBChat2](/images/TDChat.PNG)
 
