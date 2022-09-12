@@ -5,7 +5,7 @@ weight: 40
 ---
 
 
-## Inbound Voice
+## Inbound Voice scenario
 
 ### Objective
 
