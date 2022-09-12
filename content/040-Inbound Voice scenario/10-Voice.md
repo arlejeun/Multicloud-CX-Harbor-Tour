@@ -10,7 +10,7 @@ weight: 10
 ### Login to Agent Desktop
 
 
-1. From the Azure EOD Portal select the 'Agent Desktop' tile.
+From the Azure EOD Portal select the 'Agent Desktop' tile.
 
 ![WWE](/images/file_1622753076476_azureAgtDeskTile.png)
 
@@ -25,19 +25,25 @@ password = 'Agent Password' as specified in your EOD configuration.
 ![Tenant](/images/file_1604334999711_gecEODWorkshopAdLogin.jpg)
 
 
-2. Make the Agent ready on all channels.
+### Make the Agent ready on all channels.
 
 ![Ready](/images/WWE9_Agent_Ready.png)
 
 
-2. For Treasure Bank call one of the following numbers depending on your location:
+### Make call
+
+For Treasure Bank call one of the following numbers depending on your location:
 
  ![ContactInfo](/images/TreasureBankContactVoice.PNG)
 
  
-3. Follow the prompts. For the question "How can I help you ?" say "Agent"
+### Follow the prompts
 
-4. Call will be delevired to your agent. Accept interaction on Desktop.
+For the question "How can I help you ?" say "Agent"
 
+### Accept call
 
+Call will be delevired to your agent. Accept interaction on Desktop.
+
+![Accept](/images/Accept.PNG)
 
