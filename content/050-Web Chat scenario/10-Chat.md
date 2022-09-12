@@ -14,10 +14,14 @@ Make sure that you logged in your agent into Desktop and he is ready on chat cha
 
 Login into Treasure Bank https://treasureea.demo.genesys.com/ using your GDemo account.
 
+![TBLogin](/images/TBLogin.PNG)
+
+
 ### Initiate chat session
 
 Click on the 'Live Assistance' tab on the right side of the page and open and open 'Live Assistance' window.
- ![ContactInfo](/images/TreasureBankContactVoice.PNG)
+ ![TBLA](/images/TBLiveA.PNG)
+ ![TBLA2](/images/TBLiveAssist.PNG)
 
 
 ### Accept chat
