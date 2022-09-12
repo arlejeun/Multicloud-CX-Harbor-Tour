@@ -61,6 +61,6 @@ End call by clicking on the following icon:
 
 ![EndCall](/images/TDEndVoice.PNG)
 
-and mark it done:
+And mark it done:
 
 ![CallDone](/images/TDVoiceDone.PNG)
