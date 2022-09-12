@@ -55,5 +55,12 @@ You can check 'History' tab, 'Responses" tab. etc.
 ![History](/images/ADHistory.PNG)
 ![Responces](/images/ADResponses.PNG)
 
-### Release call
+### End call
 
+End call by clicking on the following icon:
+
+![EndCall](/images/TDEndVoice.PNG)
+
+and mark it done:
+
+![CallDone](/images/TDVoiceDone.PNG)
