@@ -1,11 +1,11 @@
 ---
-title: "Deployment of your Azure EOD Personal Environment"
+title: "Deployment Azure EOD Personal"
 chapter: true
 weight: 30
 ---
 
-
-## Creating Your Configuration
+## Deployment Azure EOD Personal
+### Creating Your Configuration
  1. Go to the navigation in GDemo and select "Environments" from the Genesys Engage Cloud menu.
 ![Environments](/images/file_1604107212047_gecEnvironments.jpg)
 
@@ -25,7 +25,7 @@ weight: 30
 ![PODRequested](/images/file_1604348078978_gecPOCRequested.jpg) 
 
 
-## Provisioning Completed
+### Provisioning Completed
  1. When finished, you will see your new Azure Personal EOD in your list of Live Environments.
 
 ![Done](/images/file_1604348160805_gecPOCSuccessful.jpg)
@@ -34,7 +34,7 @@ weight: 30
  2. Note the icon that designates your new EOD as provisioned on Azure.
  ![mylive](/images/file_1622738956387_myLiveAzure.png)
 
-## Retrieving Configurations at later time
+### Retrieving Configurations at later time
  1. At any time you can retrieve your configuration, such as Unit ID, agent password, etc., by going to 'My Live EODs', and then clicking the 'View EOD Configuration' icon.
 
 ![configuration](/images/file_1622739207774_viewNewEODConfig.png)
@@ -42,6 +42,8 @@ weight: 30
 ![pdf](/images/file_1604109897379_gecEODWorkshopPDF.jpg)
  3. Note that your Unit Type is designated as Azure.
 ![unit](/images/file_1622739397819_azureUnitType.png)
+
+[SR] Question to the team - Do we need to have info below in this workshop?
 >Help
 
 >If there are inaccuracies or issues with this Azure EOD Personal Deployment demonstration, or if you would like to give feedback on this demonstration, please use >this link. Include a screenshot(s) if possible.
