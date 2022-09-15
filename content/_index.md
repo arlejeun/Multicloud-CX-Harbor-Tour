@@ -1,7 +1,7 @@
 ---
 title: "Genesys Multicloud Workshop"
 chapter: true
-weight: 1
+weight: 10
 ---
 
 # Genesys Multicloud-CX Workshop 101
