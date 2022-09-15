@@ -19,3 +19,6 @@ This is a CrossPlatform demonstration that shows multiple Pure Engage Cloud (PEC
 This is a CrossPlatform demonstration of various scenarios using the GSol website. Uses the PEC Environment in the PureEngage Cloud tab of the demonstration https://gsolea.demo.genesys.com/#login
 
 ### Playground 
+
+This is tool that that allows to simulate and test different interactions offerd across our official demos and custom settings.
+![Playground](/images/Playground.PNG)
