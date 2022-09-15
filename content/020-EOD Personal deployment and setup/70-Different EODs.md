@@ -4,7 +4,6 @@ chapter: true
 weight: 70
 ---
 
-**[SR] questioin to the team - do we want to keep thisn section in this workshopp or move it to neaxt workshop?**
 ## Different types of EOD
 
 In this workshop we deployed Personal EOD. However, we have different types of EOD available for users that will be covered in Multicloud-CX Workshop 102..
