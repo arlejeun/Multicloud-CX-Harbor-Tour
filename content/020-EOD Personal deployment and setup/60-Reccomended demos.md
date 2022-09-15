@@ -18,6 +18,8 @@ This is a CrossPlatform demonstration that shows multiple Pure Engage Cloud (PEC
 ![GSol](/images/GSol.PNG)
 This is a CrossPlatform demonstration of various scenarios using the GSol website. Uses the PEC Environment in the PureEngage Cloud tab of the demonstration https://gsolea.demo.genesys.com/#login
 
+> For detail instructions how to demo Treasure Bank or GSol you can go to 'Demo Instructions' tab on GDemo portal and search for 'Treasure Bank' or 'GSol'
+
 ### Playground 
 
 This is tool that that allows to simulate and test different interactions offerd across our official demos and custom settings.
