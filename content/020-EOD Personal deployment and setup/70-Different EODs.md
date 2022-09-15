@@ -7,7 +7,7 @@ weight: 70
 **[SR] questioin to the team - do we want to keep thisn section in this workshopp or move it to neaxt workshop?**
 ## Different types of EOD
 
-We deployed Personal EOD, however, we have different types of EOD available for users.
+In this workshop we deployed Personal EOD. However, we have different types of EOD available for users that will be covered in Multicloud-CX Workshop 102..
 Here is the list of EODs and main characteristics:
 
 ### WORKSHOP Units
@@ -25,7 +25,6 @@ Here is the list of EODs and main characteristics:
 - Dedicated DIDs / Task endpoints
 - Build your own Application (Routing / IVR / Bot / Messaging) using Designer / BotEngine
 - Extended administrator privileges
-- Can be associated with a PureCloud OOD for custom Predictive Engagement
 - Expires by expiration date specified during provisioning
 
 ### PERSONAL Units
