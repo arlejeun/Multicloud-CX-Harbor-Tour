@@ -61,7 +61,7 @@ Additional setup instructions and information on supported channels is covered i
 
 Designer is a web-based tool for developing self-service (IVR) and assisted service (routing) applications that run on the Genesys Multicloud CX platform. It is an omnichannel solution, enabling you to craft applications that handle voice, chat, and email interactions.
 You will learn how to create and customize designer application in Multicloud CX Workshop 102.
-In this workshop we will learn how to access Desipgenr app and review Designer Analytics.
+In this workshop we will learn how to access Designer app and review Designer Analytics.
 
 On the Azure EOD Portal login to Designer with your user of role Administrator (refer to 'Login Information' section on how to find users). 
 > note: Tenant is left blank.
