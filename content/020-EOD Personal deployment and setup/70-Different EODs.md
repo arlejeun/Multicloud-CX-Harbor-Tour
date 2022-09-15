@@ -17,7 +17,7 @@ Here is the list of EODs and main characteristics:
 - Build your own Application (Routing / IVR / Bot / Messaging) using Designer / BotEngine
 - Each attendee has their own agent, and a shared admin account
 - 1 shared DID per region
-- Expires like PureEngage-PODs
+- Expires by expiration date specified during provisioning
 
 ### POC Units
 
@@ -26,13 +26,13 @@ Here is the list of EODs and main characteristics:
 - Build your own Application (Routing / IVR / Bot / Messaging) using Designer / BotEngine
 - Extended administrator privileges
 - Can be associated with a PureCloud OOD for custom Predictive Engagement
-- Expires like PureEngage-PODs
+- Expires by expiration date specified during provisioning
 
 ### PERSONAL Units
 
 - Maximum one unit for each GDemo user
 - Flagship demos (GBank, GSol, GInsurance, Web Wizard)
-- Build your own Application (Routing / IVR / Bot / Messaging) using Designer / BotEngine
+- Build your own Application 
 - Predictive Engagement enabled
 - 4 shared DIDs per region
 - 1 Admin, 4 agents, 1 supervisor
