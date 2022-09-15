@@ -15,9 +15,5 @@ weight: 10
 
 - Select Multicloud CX platform
 
-- Navigate to Demonstrations, use Search to find some demo
-
-- Check Playground page and read Introduction to Demo tools
-
 
 ![gdemo](/images/Gdemo.PNG)
