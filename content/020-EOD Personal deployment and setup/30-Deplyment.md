@@ -57,15 +57,3 @@ Once you have created your Azure EOD Personal you can customize your environment
 Additional setup instructions and information on supported channels is covered in Multicloud CX Workshop 102.
 
 
-**[SR] Question to the team - Do we need to have info below in this workshop?**
->Help
-
->If there are inaccuracies or issues with this Azure EOD Personal Deployment demonstration, or if you would like to give feedback on this demonstration, please use >this link. Include a screenshot(s) if possible.
-
->If you have general demo or larger issues,
->please contact Global Technical Sales as usual.
-
->Platform stability
-
->This Azure EOD is a production tenant on the Genesys Engage Cloud platform.  The availability of the platform and components is managed by the DevOps cloud team, therefore  we are not responsible for the service level and availability of the platform.
-
