@@ -63,8 +63,10 @@ Designer is a web-based tool for developing self-service (IVR) and assisted serv
 You will learn how to create and customize designer application in Multicloud CX Workshop 102.
 In this workshop we will learn how to access Designer app and review Designer Analytics.
 
-On the Azure EOD Portal login to Designer with your user of role Administrator (refer to 'Login Information' section on how to find users). 
+- On the Azure EOD Portal login to Designer with your user of role Administrator (refer to 'Login Information' section on how to find users). 
 > note: Tenant is left blank.
+
+- Go to 'Analytics' page and review information there. 
 
 
 Designer Analytics is a powerful tool that provides a rich overview of your contact center operations. It features a series of informative dashboards, each of which offers a variety of visualizations and in-depth reporting panels that highlight specific aspects of your operations.
@@ -81,3 +83,4 @@ Important
 - 90-day data retention, so you can see how your applications are performing over time.
 - Advanced filtering options, so you can focus on the data you want to see.
 
+![Designer Anal](/images/DesignerAnalytics.PNG)
