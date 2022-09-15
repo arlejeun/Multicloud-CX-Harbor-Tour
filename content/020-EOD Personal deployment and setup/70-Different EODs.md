@@ -30,7 +30,7 @@ Here is the list of EODs and main characteristics:
 ### PERSONAL Units
 
 - Maximum one unit for each GDemo user
-- Flagship demos (GBank, GSol, GInsurance, Web Wizard)
+- Flagship demos (GBank, GSol, GInsurance, Demo Builder)
 - Build your own Application 
 - Predictive Engagement enabled
 - 4 shared DIDs per region
