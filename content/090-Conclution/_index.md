@@ -11,7 +11,7 @@ Congratulations! You've reached the end of today's workshop. You now have an ope
 ### Next Steps
 If you'd like to continue your Genesys Multicloud CX journey, please visit the following links to complete other workshops:
 
-* EOD Personal customization (to be added later)
+* Multicloud CX Woekshop 102 
 * WFO (to be added later)
 * Bots (to be added later)
 * ...
