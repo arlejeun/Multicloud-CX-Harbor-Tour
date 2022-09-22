@@ -4,7 +4,7 @@ chapter: true
 weight: 20
 ---
 
-![Title](/images/GettingStarted.jpg)
+![Title](/images/Deployment.PNG)
 
 ## Objective
 
