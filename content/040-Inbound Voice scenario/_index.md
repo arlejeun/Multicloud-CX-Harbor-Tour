@@ -4,10 +4,10 @@ chapter: true
 weight: 40
 ---
 
-![Title](/images/GettingStarted.jpg)
+![Title](/images/voice.PNG)
 
 
-### Objective
+## Objective
 
 By the end of this section you will be able to make voice interaction and deliver it to an agent.
 
