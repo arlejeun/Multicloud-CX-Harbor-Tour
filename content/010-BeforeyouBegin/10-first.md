@@ -1,13 +1,13 @@
 ---
-title: "Activating Your Gdemo Account"
+title: "Navigate through Gdemo Account"
 chapter: true
 weight: 10
 ---
 
 
-## Activating Your Gdemo Account
+## Navigate through Gdemo Account
 
-- Open GDemo page, create account **[SR] Open question - Need to clarify what the prerequisites for beginners are. Are they required to have gdemo account already set up before this workshop?**
+- Open GDemo page https://gdemo.demo.genesys.com/ and login into your GDemo account previously created.
 
 - Select 'Multicloud CX' platform in dropdown list
 
