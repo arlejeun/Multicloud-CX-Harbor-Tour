@@ -4,7 +4,7 @@ chapter: true
 weight: 20
 ---
 
-![Title](/images/Deployment.PNG)
+![Title](/images/EOD.PNG)
 
 ## Objective
 
