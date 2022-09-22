@@ -11,5 +11,5 @@ The goal of this section is to guide you through the account activation process 
 
 ### Prerequisites:
 
-
+- You should register and activate your GDemo account.
 
