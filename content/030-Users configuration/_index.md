@@ -1,5 +1,5 @@
 ---
-title: "Users configuration"
+title: "Users login information"
 chapter: true
 weight: 30
 ---
