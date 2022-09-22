@@ -4,7 +4,7 @@ chapter: true
 weight: 50
 ---
 
-## Web Chat scenario
+![Title](/images/GettingStarted.jpg)
 
 ### Objective
 
