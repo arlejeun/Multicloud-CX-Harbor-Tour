@@ -4,6 +4,8 @@ chapter: true
 weight: 90
 ---
 
+![Title](/images/GettingStarted.jpg)
+
 ## Finished!
 
 Congratulations! You've reached the end of today's workshop. You now have an operational Personal Azure EOD. We hope this was an informative journey, and that you are now confident in your interaction fielding abilities.  
