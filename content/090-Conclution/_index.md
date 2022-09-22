@@ -4,7 +4,7 @@ chapter: true
 weight: 90
 ---
 
-![Title](/images/GettingStarted.jpg)
+![Title](/images/Conclusion.jpg)
 
 ## Finished!
 
