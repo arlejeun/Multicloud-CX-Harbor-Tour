@@ -9,7 +9,7 @@ weight: 10
 
 The goal of this section is to guide you through the account activation process and help to navigate through Gdemo portal.
 
-## Prerequisites:
+### Prerequisites:
 
 
 
