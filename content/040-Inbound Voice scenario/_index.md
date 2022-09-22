@@ -4,8 +4,8 @@ chapter: true
 weight: 40
 ---
 
+![Title](/images/GettingStarted.jpg)
 
-## Inbound Voice scenario
 
 ### Objective
 
