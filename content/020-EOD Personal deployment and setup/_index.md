@@ -1,5 +1,5 @@
 ---
-title: "EOD Personal deployment and setup"
+title: "EOD Personal deployment"
 chapter: true
 weight: 20
 ---
