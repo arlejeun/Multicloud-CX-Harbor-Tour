@@ -7,7 +7,7 @@ weight: 10
 ![Title](/images/GettingStarted.jpg)
 ## Objective
 
-The goal of this section is to guide you through the account activation process and help to navigate through Gdemo portal.
+The goal of this section is to help you to navigate through Gdemo portal.
 
 ### Prerequisites:
 
