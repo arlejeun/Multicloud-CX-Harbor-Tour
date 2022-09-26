@@ -8,4 +8,4 @@ weight: 60
 
 ## Objective
 
-By the end of this section you will be able to initiate chat interaction using and deliver it to an agent
+By the end of this section you will learn how to review Designer Analytics, how to review and run real time and historical reports/dashboards.
