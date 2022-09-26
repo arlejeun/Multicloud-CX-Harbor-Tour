@@ -1,15 +1,21 @@
 ---
-title: "Pulse"
+title: "Pulse Reporting"
 chapter: true
 weight: 20
 ---
 
-## Pulse
+## Pulse Reporting
 
+Genesys Pulse provides at-a-glance views of real-time contact center statistics on dashboards within the user interface.
+
+- Widgets are customizable allowing for changes in intervals, inclusions of iframes, customization of KPI’s, and configuration of formatting
+- Wallboards are larger than widgets, focusing on providing data in a more generic visually appealing mannar
+
+### Access Pulse
 
 To access Pulse, make sure to click on the Pulse Reporting tile of the Genesys Portal and log in with your own EOD Personal admin user.
 
-![Designer](/images/file_1625604606223_pulse_tile.png)
+![Pulse](/images/file_1625604606223_pulse_tile.png)
 
 Once logged in for the first time, your workspace have no dedicated dashboard or wallboard.
 
