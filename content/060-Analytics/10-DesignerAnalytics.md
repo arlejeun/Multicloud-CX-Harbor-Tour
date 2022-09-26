@@ -7,7 +7,7 @@ weight: 10
 ## Designer Analytics
 
 Designer is a web-based tool for developing self-service (IVR) and assisted service (routing) applications that run on the Genesys Multicloud CX platform. It is an omnichannel solution, enabling you to craft applications that handle voice, chat, and email interactions.
-You will learn how to create and customize designer application in Multicloud CX Workshop 102.
+You will learn how to create and customize designer application in Multicloud CX Workshop Customization.
 In this workshop we will learn how to access Designer app and review Designer Analytics.
 
 ### Access Designer
