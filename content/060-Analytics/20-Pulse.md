@@ -19,7 +19,9 @@ You can create your own dashboard or wallboard from blank or you can add one fro
 
 
 ![AzureDash](/images/file_1625604632498_EOD Dashboard Azure.png)
-![AzureDash1](/images/file_1625604632498_EOD Dashboard Azure.png
+
+![AzureDash1](/images/file_1625604632498_EOD Dashboard Azure.png)
+
 - Changes will be restricted to your user
 
 ![AzureDash2](/images/file_1625604661403_EOD_Dashboard_Azure_1.png)
