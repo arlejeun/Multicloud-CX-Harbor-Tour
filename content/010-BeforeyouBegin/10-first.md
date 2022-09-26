@@ -11,7 +11,7 @@ weight: 10
 
 - Select 'Multicloud CX' platform in dropdown list
 
-- Go to 'Environmnets' and open 'Customer Record page', add customer info
+- Go to 'Environments' and open 'Customer Record page', add customer info
 
 - Check what is GDemo ID
 
