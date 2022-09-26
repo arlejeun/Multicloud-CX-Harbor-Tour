@@ -10,4 +10,4 @@ GCXI provides reports and dashboards that summarize contact center activity. Rep
 
 - Custom Dashboards are able to integrate external data which allows for custom metrics to be developed
 
-## Access GCXI Reporting
+### Access GCXI Reporting
