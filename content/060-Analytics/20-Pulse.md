@@ -18,7 +18,7 @@ You can create your own dashboard or wallboard from blank or you can add one fro
 - Open **EOD Realtime Azure** Dashboard and it will create a copy in your workspace
 
 ![AzureDash1](/images/file_1625604632498_EOD Dashboard Azure.png)
-![AzureDash2](/images/file_1625604632498_EOD_Dashboard_Azure.png)
+![AzureDash1](/images/file_1625604632498_EOD_Dashboard_Azure.png)
 
 - Changes will be restricted to your user
 
