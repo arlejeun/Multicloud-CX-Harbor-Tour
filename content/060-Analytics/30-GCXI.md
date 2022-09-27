@@ -14,7 +14,7 @@ GCXI provides reports and dashboards that summarize contact center activity. Rep
 
 Click on the GCXI Reporting tile within the Azure EOD Portal and login with...
 
-
+![GCXI](/images/file_1622775117468_azureGcxiReptTile.png)
 
 Login with 
 User Name: t1007\demo
