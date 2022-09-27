@@ -4,7 +4,7 @@ chapter: true
 weight: 60
 ---
 
-![Title](/images/chat2.PNG)
+![Title](/images/Analytics.PNG)
 
 ## Objective
 
