@@ -16,4 +16,4 @@ weight: 10
 - Check what is GDemo ID
 
 
-![gdemo](/images/Gdemo.PNG)
+![gdemo](/images/Gdemo2.PNG)
