@@ -15,6 +15,9 @@ In this workshop we will learn how to access Designer app and review Designer An
 - On the Azure EOD Portal login to Designer with your user of role Administrator (refer to 'Login Information' section on how to find users). 
 > note: Tenant is left blank.
 
+![Designer2](/images/DesignerAnalytics.PNG)
+
+
 - Go to 'Analytics' page and review information there. 
 
 ## Designer Analytics
