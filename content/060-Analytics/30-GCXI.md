@@ -24,4 +24,9 @@ Password:   Genesys1234
 
 > Note: This user/password is static and doesn't follow the login information rules as the other applications. It is recommended to open GCXI Reporting either in an incognito browser or use a different browser profile.
 
+Yopu can naw run and review existing out of box reports and dashboards from CX Insights folder.
  
+![GCXI3](/images/GCXI2.PNG)
+
+
+![GCXI4](/images/GCXI3.PNG)
